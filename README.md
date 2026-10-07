@@ -1,10 +1,10 @@
-\# Who Really Pays for the Energy Transiction?
+# Who Really Pays for the Energy Transiction?
 
 Italian electiricy prices, solar power and the impact on businesses.
 
 
 
-\## Business questions
+## Business questions
 
 1. How has the Italian electricity price changed from 2019 to today?
 2. How many hours per year does solar push prices down, and by how much?
@@ -13,7 +13,7 @@ Italian electiricy prices, solar power and the impact on businesses.
 
 
 
-\## Data sources 
+## Data sources 
 
 * GME (Italian power Exchange): day-ahead prices
 * Terna: generation by source
@@ -21,7 +21,7 @@ Italian electiricy prices, solar power and the impact on businesses.
 
 
 
-\## Status
+## Status
 
 Work in progress.
 
