@@ -1,5 +1,5 @@
-# Who Really Pays for the Energy Transiction?
-
+# Who Pays for Italy's Energy Transition?
+Electricity prices, solar power and the cost for businesses
 Italian electiricy prices, solar power and the impact on businesses.
 
 
