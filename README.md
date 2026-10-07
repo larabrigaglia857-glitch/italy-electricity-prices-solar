@@ -1,6 +1,6 @@
 \# Who Really Pays for the Energy Transiction?
 
-Italiaan electiricy prices, solar power and the impact on businesses.
+Italian electiricy prices, solar power and the impact on businesses.
 
 
 
